@@ -11,9 +11,9 @@ public class CxfJaxWsClient {
 
 	public static void main(String[] args) {
 		
-		//webservice 22222222222222
-		//33333333333333
 		
+		
+		//eclipse 冲突测试
 		JaxWsProxyFactoryBean proxyFactory=new JaxWsProxyFactoryBean();
 		
 		proxyFactory.setAddress("http://localhost:8080/jingli-elutong/services/updateInterface");
