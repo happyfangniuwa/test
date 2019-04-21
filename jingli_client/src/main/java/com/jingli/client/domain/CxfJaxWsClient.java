@@ -11,7 +11,7 @@ public class CxfJaxWsClient {
 
 	public static void main(String[] args) {
 		
-		//webservice
+		//webservice 22222222222222
 		JaxWsProxyFactoryBean proxyFactory=new JaxWsProxyFactoryBean();
 		
 		proxyFactory.setAddress("http://localhost:8080/jingli-elutong/services/updateInterface");
