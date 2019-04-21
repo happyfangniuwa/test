@@ -12,7 +12,7 @@ public class CxfJaxWsClient {
 	public static void main(String[] args) {
 		
 		
-		
+		//第一次测试
 		//eclipse 冲突测试
 		JaxWsProxyFactoryBean proxyFactory=new JaxWsProxyFactoryBean();
 		
