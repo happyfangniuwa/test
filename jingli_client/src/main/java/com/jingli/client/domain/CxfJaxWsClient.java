@@ -11,8 +11,8 @@ public class CxfJaxWsClient {
 
 	public static void main(String[] args) {
 		
-		//webservice
-		//546456575645646
+		//webservice 22222222222222
+		//33333333333333
 		
 		JaxWsProxyFactoryBean proxyFactory=new JaxWsProxyFactoryBean();
 		
